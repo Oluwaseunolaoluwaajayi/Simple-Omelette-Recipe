@@ -1,6 +1,6 @@
 # Simple Omelette Recipe Card
 
-![Simple Omelette Recipe Card](images/screenshot.png)
+
 
 A responsive recipe card built with HTML and CSS, showcasing a simple omelette recipe. This project includes a header image, preparation time, ingredients, instructions, and nutrition information in a clean, card-style layout.
 
